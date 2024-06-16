@@ -24,9 +24,9 @@ label {
   font-size: 1.1em;
   margin-right: 1em;
 }
-#div_nm,
-#div_fnm,
-#div_st {
+.FormNom,
+.FormPrenom
+ {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
